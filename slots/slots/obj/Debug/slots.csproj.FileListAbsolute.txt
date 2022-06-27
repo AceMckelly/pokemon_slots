@@ -1,0 +1,9 @@
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\bin\Debug\slots.exe.config
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\bin\Debug\slots.exe
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\bin\Debug\slots.pdb
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\obj\Debug\slots.csprojResolveAssemblyReference.cache
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\obj\Debug\slots.Form1.resources
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\obj\Debug\slots.Properties.Resources.resources
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\obj\Debug\slots.csproj.GenerateResource.Cache
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\obj\Debug\slots.exe
+c:\users\anfernee\documents\visual studio 2013\Projects\slots\slots\obj\Debug\slots.pdb
